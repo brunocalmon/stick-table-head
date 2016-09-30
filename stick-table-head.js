@@ -1,13 +1,3 @@
-/*stick-table-header is a JQuery module responsible for making the head of any fixed table at the top of the browser, responsivmente and automatically adjusting to each table properties.
-
- Table Clone Scroll
-
- É preciso adicionar no css as propriedades a seguir:
- .sticky-cloned{ position: fixed; top: 0px; left:
- 536px; visibility: hidden; }
-
- Clona elemento de thead selecionado.*/
-
 jQuery(function($) {
 $(document)
 .ready(
